@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      // ... other settings
+      "target": "ES2016",
+      "noImplicitThis": false
+    }
+  }
